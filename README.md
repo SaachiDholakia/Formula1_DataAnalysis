@@ -53,7 +53,7 @@ Exploratory Data Analysis (EDA) is performed to visualize and understand the dis
 
 ## Tableau Dashboard
 
-To further explore the findings and insights from the analysis, an interactive Tableau dashboard has been created. You can view and interact with the dashboard here.
+To further explore the findings and insights from the analysis, an interactive Tableau dashboard has been created. You can view and interact with the dashboard here(https://public.tableau.com/app/profile/saachi.dholakia/viz/Formula1_17181298051540/Story1).
 
 ## Conclusion
 
