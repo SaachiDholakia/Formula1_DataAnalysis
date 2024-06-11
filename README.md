@@ -76,7 +76,3 @@ Future work can include:
 
 - Data Source: Kaggle's Formula 1 World Championship dataset. Retrieved from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 - Python libraries documentation: [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [scikit-learn](https://scikit-learn.org/)
-
----
-
-Feel free to customize this README further to better fit your project's specifics. If there are additional sections or details you'd like to include, let me know!
